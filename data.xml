@@ -1,0 +1,30 @@
+<categories>
+    <category categoryId="01" category="UI/UX DESIGN">
+        <data>
+            <post postId="201" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="202" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="203" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+        </data>
+    </category>
+    <category categoryId="02" category="FRONT END-DEVELOPER">
+        <data>
+            <post postId="301" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="302" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="303" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+        </data>
+    </category>
+    <category categoryId="03" category="BACK END-DEVELOPER">
+        <data>
+            <post postId="401" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="402" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="403" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+        </data>
+    </category>
+    <category categoryId="04" category="DATA ANALYSIS">
+        <data>
+            <post postId="501" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="502" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+            <post postId="503" bannerImage="banner1.jpg" title="Title 1" subtitle="Subtitle 1" postDate="2023-12-07" postedByName="Author 1" postedByImage="author1.jpg" article="Lorem ipsum dolor sit amet." image="article1.jpg" />
+        </data>
+    </category>
+</categories>
